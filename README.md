@@ -1,2 +1,8 @@
-# Calculatrice_DIALLO_NITEKA_ABDALLAH
-Projet de mise en place d'une calculatrice sous Android Studio
+# 2 Modules natifs Android
+##1 - CALCULATRICE
+##2 - NEWSLETTER
+
+Réalisés par :
+- ABDALLAH Swabahadine
+- DIALLO Elhadj Mamadou Foula
+- NITEKA Lys Ciella

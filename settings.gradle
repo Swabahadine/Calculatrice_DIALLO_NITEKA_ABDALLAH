@@ -1,2 +1,3 @@
-include ':app'
+include ':newsletter'
+include ':calculatrice'
 rootProject.name = "Calculatrice"
